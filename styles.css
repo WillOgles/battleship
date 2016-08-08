@@ -1,0 +1,22 @@
+
+/* The selector below says "MAKE ALL h1 purple" */
+h1 {
+	color: purple;
+}
+
+/* The . is a class selector. This below says h1 with a class="eyepatch" */
+h1.eyepatch { 
+	color: green;
+}
+
+h1.battleship {
+	color:pink;
+}
+
+/* Hey, if you have the class "makethisgold" then your text should be gold*/
+.makethisgold {
+	color: gold;
+}
+
+
+
